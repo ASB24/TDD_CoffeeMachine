@@ -1,5 +1,3 @@
-package Test;
-
 public class Cup {
     
     private int cupQuantity;
@@ -34,3 +32,4 @@ public class Cup {
         this.setCupQuantity(cupQuantity);
     }
 }
+

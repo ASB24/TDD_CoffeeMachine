@@ -1,14 +1,13 @@
-package Test;
-
+package src;
 import java.util.Objects;
 
 public class CoffeeMachine {
-
-protected CoffeeMaker coffeeMaker;
-protected Cup smallCups;
-protected Cup mediumCups;
-protected Cup bigCups;
-protected SugarDispenser sugarDispenser;
+    
+    protected CoffeeMaker coffeeMaker;
+    protected Cup smallCups;
+    protected Cup mediumCups;
+    protected Cup bigCups;
+    protected SugarDispenser sugarDispenser;
 
     //Getters & Setters
     public void setCoffeeMaker(CoffeeMaker coffeeMaker) {

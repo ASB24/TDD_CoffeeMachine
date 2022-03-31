@@ -1,6 +1,6 @@
-package Test;
-
+package src;
 public class SugarDispenser {
+  
     private int sugarQuantity;
 
     //Getters & Setters

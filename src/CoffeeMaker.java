@@ -1,6 +1,6 @@
-package Test;
-
+package src;
 public class CoffeeMaker {
+
     private int coffeeQuantity;
 
     //Getters & Setters
@@ -22,4 +22,5 @@ public class CoffeeMaker {
     public CoffeeMaker(int coffeeQuantity){
         this.setCoffeeQuantity(coffeeQuantity);
     }
+    
 }

@@ -1,5 +1,4 @@
-package Test;
-
+package src;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
@@ -28,8 +27,4 @@ public class TestCoffeeMaker {
         coffeeMaker.giveCoffee(7);
         assertEquals(3,coffeeMaker.getCoffeeQuantity());
     }
-
-
-
-
 }
